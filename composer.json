@@ -20,5 +20,6 @@
     },
     "extra": {
         "installer-name": "silverstripe-login-protection"
-    }
+    },
+    "prefer-stable": true
 }
